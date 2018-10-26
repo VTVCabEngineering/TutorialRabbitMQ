@@ -1,0 +1,10 @@
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\Sender.exe.config
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\Sender.exe
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\Sender.pdb
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\RabbitMQ.Client.dll
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\bin\Debug\RabbitMQ.Client.xml
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\obj\Debug\Sender.exe
+E:\Dự án\VTVCab\RabbitMQ\Sender\Sender\obj\Debug\Sender.pdb
